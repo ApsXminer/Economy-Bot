@@ -1,0 +1,71 @@
+{
+    "1383706658315960330": {
+        "wallet": 4174,
+        "bank": 0,
+        "level": 6,
+        "xp": 471,
+        "inventory": [],
+        "daily_streak": 0,
+        "last_daily": null,
+        "pet": null,
+        "job": "Programmer"
+    },
+    "1289423234487549972": {
+        "wallet": 1176,
+        "bank": 0,
+        "level": 3,
+        "xp": 210,
+        "inventory": []
+    },
+    "1381982670518616164": {
+        "wallet": 96,
+        "bank": 0,
+        "level": 1,
+        "xp": 87,
+        "inventory": []
+    },
+    "767594960932831242": {
+        "wallet": 296,
+        "bank": 0,
+        "level": 2,
+        "xp": 1,
+        "inventory": [],
+        "daily_streak": 0,
+        "last_daily": null,
+        "pet": null,
+        "job": null
+    },
+    "1333399117870665783": {
+        "wallet": 96,
+        "bank": 0,
+        "level": 1,
+        "xp": 93,
+        "inventory": [],
+        "daily_streak": 0,
+        "last_daily": null,
+        "pet": null,
+        "job": null
+    },
+    "1350448055282831361": {
+        "wallet": 96,
+        "bank": 0,
+        "level": 1,
+        "xp": 117,
+        "inventory": [],
+        "daily_streak": 0,
+        "last_daily": null,
+        "pet": null,
+        "job": null
+    },
+    "1287997730320551957": {
+        "wallet": 96,
+        "bank": 0,
+        "level": 1,
+        "xp": 24,
+        "inventory": [],
+        "daily_streak": 0,
+        "last_daily": null,
+        "pet": null,
+        "job": null
+    }
+}
